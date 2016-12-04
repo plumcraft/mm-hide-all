@@ -1,4 +1,4 @@
-MM-Hide-All
+mmm-hide-all
 ===
 [MagicMirror](https://github.com/MichMich/MagicMirror) Module to hide everything on screen.
 
@@ -7,7 +7,7 @@ Setup:
 * Add the following to your config:
 ````javascript
 {
-	module: 'mm-hide-all',
+	module: 'mmm-hide-all',
 	position: 'bottom_right'
 },
 ````
