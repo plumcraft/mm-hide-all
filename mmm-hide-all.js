@@ -7,14 +7,14 @@
  * MIT Licensed.
  */
 
-Module.register("mm-hide-all",{
+Module.register("mmm-hide-all",{
 
 	getScripts: function() {
-		return ["modules/mm-hide-all/js/jquery.js"];
+		return ["modules/mmm-hide-all/js/jquery.js"];
 	},
 
 	getStyles: function() {
-		return ["mm-hide-all-style.css"];
+		return ["mmm-hide-all-style.css"];
 	},
 	
 	getDom: function() {
